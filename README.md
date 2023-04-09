@@ -1,3 +1,1 @@
-Social Media App on Django
-
-
+# Social Media App on Django
